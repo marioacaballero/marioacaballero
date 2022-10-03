@@ -31,7 +31,17 @@ You can contact me throw my LinkedIn profile [here](www.linkedin.com/in/mario-a-
 
 ### Full Stack Web Developer Individual Project (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS)
 
-You can see your favorite pokemons and learn more about them! Also you can create news, including an image, status and types.
+You can see your favorite pokemons and learn more about them! Also you can create news, including an image, status and types. The style was bassed on Pokemon Fire Red Nintendo Version.
+
+Landing Page
+<p align="center" padding-top='15px'>
+<img src="https://github.com/marioacaballero/marioacaballero/blob/main/img/LandingPage.png"/>
+</p>
+
+Home
+<p align="center" padding-top='15px'>
+<img src="https://github.com/marioacaballero/marioacaballero/blob/main/img/PokeFRV.gif"/>
+</p>
 
 #### Repository link [here](https://github.com/marioacaballero/Pokemon-RFVersion-PI)
 
