@@ -51,6 +51,10 @@ Home
 
 This is a final project related with a real small bussines about vegetarian food. You can order, buy, save favorite, and more.
 
+<p align="center" padding-top='15px'>
+<img src="https://github.com/marioacaballero/marioacaballero/blob/main/img/CaneFood.gif"/>
+</p>
+
 #### Repository link [here](https://github.com/marioacaballero/Cane-Food-e-commerce)
 
 <!--
