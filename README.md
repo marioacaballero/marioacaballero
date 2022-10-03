@@ -1,4 +1,6 @@
-
+<p align="center" padding-top='15px'>
+<img src="https://github.com/marioacaballero/marioacaballero/blob/main/img/FullStack.png"/>
+</p>
 
 ## Hi there I'm Mario Caballero 👋👨🏽‍💻
 
@@ -24,7 +26,9 @@ In my free time, I like to practice some sports and read books.
 ---
 
 ### You can contact me throw my LinkedIn profile ➡ [here](www.linkedin.com/in/mario-a-caballero) ⬅
+
 ---
+
 ## My projects
 
 ### Pokemon FRVersion
@@ -34,11 +38,13 @@ In my free time, I like to practice some sports and read books.
 You can see your favorite pokemons and learn more about them! Also you can create news, including an image, status and types. The style was bassed on Pokemon Fire Red Nintendo Version.
 
 Landing Page
+
 <p align="center" padding-top='15px'>
 <img src="https://github.com/marioacaballero/marioacaballero/blob/main/img/LandingPage.png"/>
 </p>
 
 Home
+
 <p align="center" padding-top='15px'>
 <img src="https://github.com/marioacaballero/marioacaballero/blob/main/img/PokeFRV.gif"/>
 </p>
