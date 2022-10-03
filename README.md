@@ -25,8 +25,12 @@ In my free time, I like to practice some sports and read books.
 
 ---
 
+<<<<<<< HEAD
 ### You can contact me throw my LinkedIn profile ➡ [here](www.linkedin.com/in/mario-a-caballero) ⬅
 
+=======
+### You can contact me throw my LinkedIn profile ➡ [here](https://www.linkedin.com/in/mario-a-caballero) ⬅
+>>>>>>> 802df82803fe64ffeec7f29bc8cdbf03f1d415ba
 ---
 
 ## My projects
