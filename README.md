@@ -1,5 +1,5 @@
 <p align="center" padding-top='15px'>
-<img src="https://github.com/marioacaballero/marioacaballero/blob/main/img/FullStack.png" size='70%'/>
+<img src="https://github.com/marioacaballero/marioacaballero/blob/main/img/FullStack.png"/>
 </p>
 
 ## Hi there I'm Mario Caballero 👋👨🏽‍💻
